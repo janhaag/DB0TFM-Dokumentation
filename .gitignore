@@ -181,3 +181,6 @@ TSWLatexianTemp*
 
 #gitinfo package
 gitHeadInfo.gin
+
+# Editor weirdness
+*.un~
