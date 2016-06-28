@@ -1,4 +1,4 @@
-Technishe Dokumentation Notstrom- und HAMNET-Ausbau DB0TFM
+Technische Dokumentation Notstrom- und HAMNET-Ausbau DB0TFM
 ==========================================================
 
 Bitte beachten: Damit das Dokument sich korrekt übersetzen
